@@ -7,8 +7,7 @@ I am Lorenzo and I like that computers can learn with the help of a snake 🐍.
   * NLP 🔡
   * Marketing Analytics 💽
   * Tennis 🎾
-  
-Always learning something new about the world. 
+
 
 <!--
 **LoriTosoChef/LoriTosoChef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
